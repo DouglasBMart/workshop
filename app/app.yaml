@@ -1,4 +1,4 @@
-command: ["uvicorn", "app:app", "--host", "0.0.0.0", "--port", "${PORT:-8000}"]
+command: ["uvicorn", "app:app", "--host", "0.0.0.0", "--port", "8000"]
 env:
   - name: DATA_DIR
     value: /dbfs/FileStore/tables/northwind_csv
