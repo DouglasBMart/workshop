@@ -1,0 +1,23 @@
+{
+  "version": "v1",
+  "host": "https://adb-3873532373348634.14.azuredatabricks.net",
+  "remote_path": "/Workspace/Users/douglas.martins@ilegra.com/workshop/app",
+  "last_modified_times": {
+    "README.md": "2026-03-04T20:30:24.3857407-03:00",
+    "app.py": "2026-03-04T20:56:34.6531071-03:00",
+    "app.yaml": "2026-03-04T20:56:32.8272823-03:00",
+    "requirements.txt": "2026-03-04T20:30:24.3867384-03:00"
+  },
+  "local_to_remote_names": {
+    "README.md": "README.md",
+    "app.py": "app.py",
+    "app.yaml": "app.yaml",
+    "requirements.txt": "requirements.txt"
+  },
+  "remote_to_local_names": {
+    "README.md": "README.md",
+    "app.py": "app.py",
+    "app.yaml": "app.yaml",
+    "requirements.txt": "requirements.txt"
+  }
+}
